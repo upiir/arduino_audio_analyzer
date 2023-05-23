@@ -29,8 +29,11 @@ Related videos:
 - Smaller & Faster Arduino - https://youtu.be/4GfPQoIRqW8
 
 
+
 Small animation:
+
 ![arduino_audio_analyzer_gif](https://github.com/upiir/arduino_audio_analyzer/assets/117754156/6d56b2f5-f832-4f13-8b31-2f3c65c69823)
+
 
 
 
