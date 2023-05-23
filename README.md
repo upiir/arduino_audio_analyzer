@@ -1,19 +1,19 @@
 # Arduino Audio Analyzer
 
-**Youtube video: https://youtu.be/w2-eu2947rc**
+**Youtube video: XXXX**
 
 
 
 Links from the video:
 - DFRobot Audio Module: https://s.click.aliexpress.com/e/_DeqqzSV
 - DFRobot Analog Sound Sensor: https://s.click.aliexpress.com/e/_DmUYNQ9
-- WOKWI starting project (OLED menu): https://youtu.be/HVHVkKt-ldc
+- WOKWI starting project (OLED menu): https://youtu.be/K5e0lFRvZ2E
 - 128x64 SSD1306 OLED Display: https://s.click.aliexpress.com/e/_DCYdWXb 
 - 128x64 SSD1306 OLED Display (smaller): https://s.click.aliexpress.com/e/_DCKdvnh
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
 - Photopea (online Photoshop-like tool): https://www.photopea.com/
 - Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
-- u8g2 documentation: https://github.com/olikraus/u8g2/wiki/u8gvsu8g2
+- u8g2 documentation: https://github.com/olikraus/u8g2/wiki/u8g2reference
 
 
 Related videos:
