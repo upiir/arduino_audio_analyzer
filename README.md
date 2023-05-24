@@ -1,25 +1,27 @@
 # Arduino Audio Analyzer
 
-**Youtube video: XXXX**
+**Youtube video: https://youtu.be/dCofwhHcW7Y**
 
 
-**WOKWI sketch: XXXX**
+**WOKWI sketch: https://wokwi.com/projects/365589571103162369**
 
 
 
 Links from the video:
 - DFRobot Audio Module: https://s.click.aliexpress.com/e/_DeqqzSV
+- DFRobot Audio Module Documentation: https://wiki.dfrobot.com/Audio_Analyzer_v2_SKU_DFR0126
 - DFRobot Analog Sound Sensor: https://s.click.aliexpress.com/e/_DmUYNQ9
 - WOKWI starting project (OLED menu): https://youtu.be/K5e0lFRvZ2E
 - 128x64 SSD1306 OLED Display: https://s.click.aliexpress.com/e/_DCYdWXb 
 - 128x64 SSD1306 OLED Display (smaller): https://s.click.aliexpress.com/e/_DCKdvnh
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
+- UNO Shield with male pins: https://s.click.aliexpress.com/e/_DcvssKD
 - Photopea (online Photoshop-like tool): https://www.photopea.com/
 - Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
 - u8g2 documentation: https://github.com/olikraus/u8g2/wiki/u8g2reference
 
 
-Related videos:
+Related videos with Arduino and OLED display:
 - Arduino Parking Sensor - https://youtu.be/sEWw087KOj0
 - Turbo pressure gauge with Arduino and OLED display - https://youtu.be/JXmw1xOlBdk
 - Arduino Car Cluster with OLED Display - https://youtu.be/El5SJelwV_0
